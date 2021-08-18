@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sentences>
+    <sentence id="3121">
+        <text>But the staff was so horrible to us.</text>
+        <aspectTerms>
+            <aspectTerm term="staff" polarity="negative" from="8" to="13"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="service" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2777">
+        <text>To be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of Teodora.</text>
+        <aspectTerms>
+            <aspectTerm term="food" polarity="positive" from="57" to="61"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="1634">
+        <text>The food is uniformly exceptional, with a very capable kitchen which will proudly whip up whatever you feel like eating, whether it's on the menu or not.</text>
+        <aspectTerms>
+            <aspectTerm term="food" polarity="positive" from="4" to="8"/>
+            <aspectTerm term="kitchen" polarity="positive" from="55" to="62"/>
+            <aspectTerm term="menu" polarity="neutral" from="141" to="145"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2534">
+        <text>Where Gabriela personaly greets you and recommends you what to eat.</text>
+        <aspectCategories>
+            <aspectCategory category="service" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="583">
+        <text>For those that go once and don't enjoy it, all I can say is that they just don't get it.</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2846">
+        <text>Not only was the food outstanding, but the little 'perks' were great.</text>
+        <aspectTerms>
+            <aspectTerm term="food" polarity="positive" from="17" to="21"/>
+            <aspectTerm term="perks" polarity="positive" from="51" to="56"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+            <aspectCategory category="service" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="1571">
+        <text>It is very overpriced and not very tasty.</text>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="negative"/>
+            <aspectCategory category="price" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="1458">
+        <text>Our agreed favorite is the orrechiete with sausage and chicken (usually the waiters are kind enough to split the dish in half so you get to sample both meats).</text>
+        <aspectTerms>
+            <aspectTerm term="orrechiete with sausage and chicken" polarity="positive" from="27" to="62"/>
+            <aspectTerm term="waiters" polarity="positive" from="76" to="83"/>
+            <aspectTerm term="meats" polarity="neutral" from="152" to="157"/>
+            <aspectTerm term="dish" polarity="neutral" from="113" to="117"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+            <aspectCategory category="service" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="3161">
+        <text>The Bagels have an outstanding taste with a terrific texture, both chewy yet not gummy.</text>
+        <aspectTerms>
+            <aspectTerm term="Bagels" polarity="positive" from="4" to="10"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2391">
+        <text>Nevertheless the food itself is pretty good.</text>
+        <aspectTerms>
+            <aspectTerm term="food" polarity="positive" from="17" to="21"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="296">
+        <text>They did not have mayonnaise, forgot our toast, left out ingredients (ie cheese in an omelet), below hot temperatures and the bacon was so over cooked it crumbled on the plate when you touched it.</text>
+        <aspectTerms>
+            <aspectTerm term="toast" polarity="negative" from="41" to="46"/>
+            <aspectTerm term="mayonnaise" polarity="negative" from="18" to="28"/>
+            <aspectTerm term="bacon" polarity="negative" from="126" to="131"/>
+            <aspectTerm term="cheese" polarity="neutral" from="73" to="79"/>
+            <aspectTerm term="ingredients" polarity="negative" from="57" to="68"/>
+            <aspectTerm term="plate" polarity="neutral" from="170" to="175"/>
+            <aspectTerm term="omelet" polarity="neutral" from="86" to="92"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="1793">
+        <text>It took half an hour to get our check, which was perfect since we could sit, have drinks and talk!</text>
+        <aspectTerms>
+            <aspectTerm term="drinks" polarity="neutral" from="82" to="88"/>
+            <aspectTerm term="check" polarity="neutral" from="32" to="37"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="service" polarity="conflict"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2200">
+        <text>The design and atmosphere is just as good.</text>
+        <aspectTerms>
+            <aspectTerm term="design" polarity="positive" from="4" to="10"/>
+            <aspectTerm term="atmosphere" polarity="positive" from="15" to="25"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ambience" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="3195">
+        <text>He has visited Thailand and is quite expert on the cuisine.</text>
+        <aspectTerms>
+            <aspectTerm term="cuisine" polarity="positive" from="51" to="58"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="3119">
+        <text>I would definitely recommend Mary's and am making it one of my regular neighborhood haunts.</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="3359">
+        <text>The pizza is the best if you like thin crusted pizza.</text>
+        <aspectTerms>
+            <aspectTerm term="pizza" polarity="positive" from="4" to="9"/>
+            <aspectTerm term="thin crusted pizza" polarity="neutral" from="34" to="52"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="70">
+        <text>My Girlfriend and I stumbled onto this hopping place the other night and had a great time!</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="1829">
+        <text>He can't help, they're bought up so fast.</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2935">
+        <text>Secondly, on this night the place was overwhelmed by upper east side ladies perfume.</text>
+        <aspectCategories>
+            <aspectCategory category="ambience" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="1805">
+        <text>i have eaten here a handful of times, for no reason besides sheer convenience.</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2559">
+        <text>Obviously run by folks who know a pie.</text>
+        <aspectCategories>
+            <aspectCategory category="service" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="716">
+        <text>We were very disappointed.</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2464">
+        <text>IT IS DEFINITELY SPECIAL AND AFFORDABLE.</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+            <aspectCategory category="price" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="385">
+        <text>I really liked this place.</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="1350">
+        <text>I will be going back very soon.</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+</sentences>
